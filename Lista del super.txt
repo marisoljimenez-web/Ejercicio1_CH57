@@ -6,3 +6,7 @@ Lista del super
 4.Pan
 5.Café
 6.Azucar
+7.Gelatina
+8.Pastel
+9.Carne
+10.Vegetales
