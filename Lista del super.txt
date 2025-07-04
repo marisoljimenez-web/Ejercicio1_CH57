@@ -3,3 +3,6 @@ Lista del super
 1.Huevo
 2.Leche
 3.Arroz
+4.Pan
+5.Café
+6.Azucar
