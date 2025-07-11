@@ -10,3 +10,7 @@ Lista del super
 8.Pastel
 9.Carne
 10.Vegetales
+11.Aceite
+12.Cereal
+13.Sal
+
